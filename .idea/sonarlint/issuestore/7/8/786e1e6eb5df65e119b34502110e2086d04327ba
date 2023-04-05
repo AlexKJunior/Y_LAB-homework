@@ -1,0 +1,11 @@
+
+`
+java:S1854"ERemove this useless assignment to local variable "connectionFactory".(¹•­ƒþÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "dataSource".(•¿…—
+E
+java:S1481"/Remove this unused "dataSource" local variable.(•¿…—
+Q
+java:S1481"6Remove this unused "connectionFactory" local variable.(¹•­ƒþÿÿÿÿ
+H
+java:S6126"2Replace this String concatenation with Text block.(ÌÏ™ž
