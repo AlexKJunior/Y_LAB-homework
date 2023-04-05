@@ -1,0 +1,49 @@
+
+H
+java:S1199A"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+j
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ø£Šıùÿÿÿÿ
+h
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œ‡¡¢
+g
+java:S2677+"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ
+g
+java:S2677,"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ
+m
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ïà›½ùÿÿÿÿ
+A
+java:S2695F"+This "PreparedStatement" has no parameters.(°ÂÙµ
+F
+java:S2695H"+This "PreparedStatement" has no parameters.(œÃÛøÿÿÿÿ
+F
+java:S2695M"+This "PreparedStatement" has no parameters.(¾§âÛûÿÿÿÿ
+F
+java:S2695O"+This "PreparedStatement" has no parameters.(¼œ†óùÿÿÿÿ
+F
+java:S2695T"+This "PreparedStatement" has no parameters.(ü¦›×ÿÿÿÿÿ
+F
+java:S2695V"+This "PreparedStatement" has no parameters.(«´ïÊùÿÿÿÿ
+A
+java:S2695["+This "PreparedStatement" has no parameters.(¹«ô­
+F
+java:S2695]"+This "PreparedStatement" has no parameters.(ã„ÙÖşÿÿÿÿ
+A
+java:S2695b"+This "PreparedStatement" has no parameters.(şàÿ
+F
+java:S2695d"+This "PreparedStatement" has no parameters.(óÁ‡ıÿÿÿÿ
+F
+java:S2695i"+This "PreparedStatement" has no parameters.(ÿíŸ«ÿÿÿÿÿ
+F
+java:S2695k"+This "PreparedStatement" has no parameters.(Õäöúşÿÿÿÿ
+F
+java:S2695p"+This "PreparedStatement" has no parameters.(¢ãä¦ûÿÿÿÿ
+A
+java:S2695r"+This "PreparedStatement" has no parameters.(«¦¬¿
+A
+java:S2695w"+This "PreparedStatement" has no parameters.(‰ªÙÛ
+F
+java:S2695y"+This "PreparedStatement" has no parameters.(¼†åÃûÿÿÿÿ
+F
+java:S2695~"+This "PreparedStatement" has no parameters.(šøÔšúÿÿÿÿ
+G
+java:S2695€"+This "PreparedStatement" has no parameters.(Ìœ§­üÿÿÿÿ
